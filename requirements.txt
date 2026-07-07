@@ -1,0 +1,23 @@
+# Core image handling and rendering
+Pillow==10.1.0
+
+# Numerical operations
+numpy==1.26.2
+
+# Fitness functions (SSIM, image utilities)
+scikit-image==0.22.0
+
+# Delta E color difference calculations
+colormath==3.0.0
+
+# Configuration file handling (.yaml)
+PyYAML==6.0.1
+
+# Progress bars for GA evolution
+tqdm==4.66.1
+
+# Optional but useful for debugging / visualization
+matplotlib==3.8.2
+
+# Ensures reproducible random operations if needed
+random2==1.0.1
